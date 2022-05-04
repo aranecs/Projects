@@ -1,4 +1,3 @@
-/*SOLONARU MIHAELA 313CB*/
 #include <stdio.h>
 #include <stdlib.h>
 #include "episod.c"
