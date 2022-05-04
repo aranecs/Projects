@@ -1,4 +1,3 @@
-/*SOLONARU MIHAELA 313CB*/
 #include "serial.c"
 
 int main(int argc, char const *argv[])
